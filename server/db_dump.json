@@ -1,0 +1,72 @@
+{
+    "parents": [
+        {
+            "id": "1",
+            "student_id": "7",
+            "parent_name": "Kapadia Farid",
+            "email": "kapadiafarid@gmail.com",
+            "password": "Rk@2005",
+            "contact_no": "6352310466",
+            "created_at": "2026-03-02 12:20:52"
+        },
+        {
+            "id": "2",
+            "student_id": "6",
+            "parent_name": "Kansara Ramankumar Jagdishbhai",
+            "email": "ramankansara1212@gmail.com",
+            "password": "Rk@2005",
+            "contact_no": "8856532100",
+            "created_at": "2026-03-04 09:49:35"
+        },
+        {
+            "id": "3",
+            "student_id": "9",
+            "parent_name": "dev ke papa",
+            "email": "papa@gmail.com",
+            "password": "Papa@123",
+            "contact_no": "9102293983",
+            "created_at": "2026-03-05 17:42:24"
+        },
+        {
+            "id": "4",
+            "student_id": "11",
+            "parent_name": "rosan sodi",
+            "email": "sodi@gmail.com",
+            "password": "Admin@123",
+            "contact_no": "3742897563",
+            "created_at": "2026-03-05 18:16:45"
+        }
+    ],
+    "users": [
+        {
+            "id": "6",
+            "name": "Kansara Komal JigneshBhai",
+            "email": "komalkansara@gmail.com"
+        },
+        {
+            "id": "7",
+            "name": "Kapadia Mohammad Farid",
+            "email": "kapadiamohammad@gmail.com"
+        },
+        {
+            "id": "8",
+            "name": "Kakadiya Harsh Bhagatbhai",
+            "email": "kakadiyaharsh@gmail.com"
+        },
+        {
+            "id": "9",
+            "name": "dev",
+            "email": "dev@gmail.com"
+        },
+        {
+            "id": "10",
+            "name": "DKSNGBVKJCM",
+            "email": "SWDAKJGDFJS@HEUKTHDSIHFKI.COM"
+        },
+        {
+            "id": "11",
+            "name": "sss",
+            "email": "shakaya@gmail.com"
+        }
+    ]
+}

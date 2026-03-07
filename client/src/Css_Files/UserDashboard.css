@@ -1,0 +1,89 @@
+/* UserDashboard.css */
+.dashboard-container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #eaeaea;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+
+.dashboard-header h1 {
+    color: #333;
+    margin: 0;
+}
+
+.logout-btn {
+    background-color: #d32f2f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.logout-btn:hover {
+    background-color: #b71c1c;
+}
+
+.welcome-section {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    border-left: 5px solid #1976d2;
+}
+
+.welcome-section h2 {
+    margin-top: 0;
+    color: #1976d2;
+}
+
+.results-section h3 {
+    color: #444;
+    margin-bottom: 15px;
+}
+
+/* Custom Table Styles */
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.results-table th,
+.results-table td {
+    padding: 12px 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.results-table th {
+    background-color: #1976d2;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.results-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.no-data {
+    text-align: center;
+    color: #777;
+    font-style: italic;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px dashed #ccc;
+}

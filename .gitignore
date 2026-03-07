@@ -1,0 +1,60 @@
+# General OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Root Level Temp Files
+command.txt
+test_output.txt
+migrateAlerts.js
+refactor_api.js
+needimporvement.ts
+"All code container.txt"
+
+# Frontend (client)
+/client/node_modules/
+/client/dist/
+/client/dist-ssr/
+/client/*.local
+/client/.env
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+
+# Backend (server)
+/server/vendor/
+/server/writable/cache/*
+!/server/writable/cache/index.html
+/server/writable/logs/*
+!/server/writable/logs/index.html
+/server/writable/session/*
+!/server/writable/session/index.html
+/server/writable/debugbar/*
+!/server/writable/debugbar/index.html
+/server/writable/uploads/*
+!/server/writable/uploads/index.html
+/server/.env
+/server/phpunit.xml
+/server/php_errors.log
+
+# AI Engine (ai_engine)
+/ai_engine/__pycache__/
+/ai_engine/*.py[cod]
+/ai_engine/*$py.class
+/ai_engine/.env
+/ai_engine/venv/
+/ai_engine/env/
+/ai_engine/.venv/
+/ai_engine/.ipynb_checkpoints/
+/ai_engine/*.pkl
+/ai_engine/*.csv
+/ai_engine/*.log

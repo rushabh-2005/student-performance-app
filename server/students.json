@@ -1,0 +1,38 @@
+[
+    {
+        "id": "6",
+        "name": "Kansara Komal JigneshBhai",
+        "email": "komalkansara@gmail.com",
+        "contact_no": "9999900221",
+        "alt_contact_no": "8856532100",
+        "current_year": "1st Year",
+        "current_sem": "Sem 1",
+        "password": "Komal@123",
+        "created_at": "2026-02-26 22:06:49",
+        "updated_at": "2026-02-26 22:06:49"
+    },
+    {
+        "id": "7",
+        "name": "Kapadia Mohammad Farid",
+        "email": "kapadiamohammad@gmail.com",
+        "contact_no": "9797800121",
+        "alt_contact_no": "6352310466",
+        "current_year": "3rd Year",
+        "current_sem": "Sem 5",
+        "password": "Rk@2005",
+        "created_at": "2026-02-27 16:42:05",
+        "updated_at": "2026-02-27 16:42:05"
+    },
+    {
+        "id": "8",
+        "name": "Kakadiya Harsh Bhagatbhai",
+        "email": "kakadiyaharsh@gmail.com",
+        "contact_no": "9900221179",
+        "alt_contact_no": "9602327701",
+        "current_year": "2nd Year",
+        "current_sem": "Sem 3",
+        "password": "Rk@2005",
+        "created_at": "2026-03-03 11:23:44",
+        "updated_at": "2026-03-03 11:23:44"
+    }
+]

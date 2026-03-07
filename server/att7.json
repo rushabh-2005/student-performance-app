@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "user_id": "7",
+        "subject_id": "21",
+        "semester": "Sem 5",
+        "total_lectures": "25",
+        "attended_lectures": "25",
+        "updated_at": "2026-02-28 11:03:33"
+    },
+    {
+        "id": "2",
+        "user_id": "7",
+        "subject_id": "22",
+        "semester": "Sem 5",
+        "total_lectures": "25",
+        "attended_lectures": "18",
+        "updated_at": "2026-02-28 11:03:33"
+    },
+    {
+        "id": "3",
+        "user_id": "7",
+        "subject_id": "23",
+        "semester": "Sem 5",
+        "total_lectures": "25",
+        "attended_lectures": "10",
+        "updated_at": "2026-02-28 11:03:33"
+    },
+    {
+        "id": "4",
+        "user_id": "7",
+        "subject_id": "24",
+        "semester": "Sem 5",
+        "total_lectures": "25",
+        "attended_lectures": "9",
+        "updated_at": "2026-02-28 11:03:33"
+    },
+    {
+        "id": "5",
+        "user_id": "7",
+        "subject_id": "25",
+        "semester": "Sem 5",
+        "total_lectures": "25",
+        "attended_lectures": "18",
+        "updated_at": "2026-02-28 11:03:34"
+    }
+]
